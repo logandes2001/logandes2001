@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @logandes2001
+- 👀 I’m interested in ... Learning more about porgramming and figuring out which subfield I want to go into.
+- 🌱 I’m currently learning ... The basics of programming
+- 💞️ I’m looking to collaborate on ... Beginner programming projects perhaps
+- 📫 How to reach me ... my email! logandes2001@gmail.com
+--->
